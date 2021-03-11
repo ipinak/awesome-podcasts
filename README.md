@@ -14,9 +14,9 @@ A curated list of podcasts for all kinds of subjects.
 ### Computer Science
 
 - [The Changelog](https://changelog.com/podcast) - Conversations with the hackers, leaders, and innovators of the software world. - [Spotify](https://open.spotify.com/show/5bBki72YeKSLUqyD94qsuJ), [Apple](https://podcasts.apple.com/us/podcast/the-changelog/id341623264), [OverCast](https://overcast.fm/itunes341623264/the-changelog), [android](https://www.subscribeonandroid.com/changelog.com/podcast/feed).
-- [JS Party](https://changelog.com/jsparty) - Welcome to JS Party, a weekly celebration of JavaScript and the web.
-- [Go Time](https://changelog.com/gotime) - Your weekly podcast with diverse discussions from around the Go community.
-- [Practical AI](https://changelog.com/practicalai) - Making artificial intelligence practical, productive, and accessible to everyone.
+- [JS Party](https://changelog.com/jsparty) - Welcome to JS Party, a weekly celebration of JavaScript and the web. - [Spotify](https://open.spotify.com/show/2ySVrxGkN6n6frMTo9Nsrt), [Apple](https://podcasts.apple.com/us/podcast/js-party/id1209616598), [Android](https://www.subscribeonandroid.com/changelog.com/jsparty/feed), [Overcast](https://overcast.fm/itunes1209616598/js-party).
+- [Go Time](https://changelog.com/gotime) - Your weekly podcast with diverse discussions from around the Go community. - [Spotify](https://open.spotify.com/show/2cKdcxETn7jDp7uJCwqmSE), [Apple](https://podcasts.apple.com/us/podcast/go-time/id1120964487), [Android](https://www.subscribeonandroid.com/changelog.com/gotime/feed), [Overcast](https://overcast.fm/itunes1120964487/go-time).
+- [Practical AI](https://changelog.com/practicalai) - Making artificial intelligence practical, productive, and accessible to everyone. - [Spotify](https://open.spotify.com/show/1LaCr5TFAgYPK5qHjP3XDp), [Apple](https://podcasts.apple.com/us/podcast/practical-ai/id1406537385), [Android](https://www.subscribeonandroid.com/changelog.com/practicalai/feed), [Overcast](https://overcast.fm/itunes1406537385/practical-ai).
 - [Codeblocks .NET](https://www.codingblocks.net/) - We are a few guys who’ve been professional programmers for years.  As avid listeners of podcasts and consumers of many things code-related, we were frustrated by the lack of quality programming (pun) available in listenable formats.  Given our years of experience and real-world problem solving skills, we thought it might be worth getting into this world of podcasting and “giving back” a shot. - [Spotify](https://www.codingblocks.net/spotify), [Apple](https://www.codingblocks.net/itunes), [OverCast](https://www.codingblocks.net/overcast).
 - [Elixir Talk](https://github.com/elixirtalk/elixirtalk) - Desmond Bowe and Chris Bell present a titillating discussion about Elixir application design and the state of the ecosystem. - [Spotify](https://open.spotify.com/show/274tVpP3wM0qmwBPczQm2K?si=AryoEhrATj2XdieKvnO06A), [Apple](https://podcasts.apple.com/us/podcast/elixir-talk/id1298287048).
 - [The Stack Overflow Podcast](https://stackoverflow.blog/podcast/) - The Stack Overflow podcast is a frank and funny conversation about what it means to work in software and how code is reshaping our world. As it celebrates its 12th anniversary, it’s a must listen for any programmer, as necessary as Stack Overflow itself. - [Spotify](https://open.spotify.com/show/0e5eoM6w7eW9Wu7wMA04Tr), [Apple](https://podcasts.apple.com/us/podcast/the-stack-overflow-podcast/id1033688462), [Google](https://www.google.com/podcasts?feed=aHR0cHM6Ly9mZWVkcy5zaW1wbGVjYXN0LmNvbS9YQV84NTFrMw%3D%3D), [OverCast](https://overcast.fm/p1359898-OviOni).
@@ -26,7 +26,7 @@ A curated list of podcasts for all kinds of subjects.
 
 ### Startups
 
-- [Founders Talks](https://changelog.com/founderstalk) - In-depth, one-one conversations with founders, CEOs, and makers.
+- [Founders Talks](https://changelog.com/founderstalk) - In-depth, one-one conversations with founders, CEOs, and makers. - [Spotify](https://open.spotify.com/show/3fLdieMXkv8HmKbFnRsdB9), [Apple](https://podcasts.apple.com/us/podcast/founders-talk/id396900791), [Android](https://www.subscribeonandroid.com/changelog.com/founderstalk/feed), [Overcast](https://overcast.fm/itunes396900791/founders-talk).
 
 
 ### Business and Management
@@ -39,6 +39,5 @@ A curated list of podcasts for all kinds of subjects.
 
 ### Other
 
-- [Backstage](https://changelog.com/backstage) - Your backstage pass to the people behind Changelog and the things that interest them.
-- [Brain Science](https://changelog.com/brainscience) - Brain Science, for the curious! We're exploring the human brain to understand behavior change, habit formation & mental health
-- [Cautionary Tales](https://timharford.com/etc/more-or-less/) - Cautionary Tales is my new podcast from Pushkin Industries, makers of Malcolm Gladwell’s Revisionist History, Michael Lewis’s Against The Rules, and Laurie Santos’s Happiness Lab.
+- [Brain Science](https://changelog.com/brainscience) - Brain Science, for the curious! We're exploring the human brain to understand behavior change, habit formation & mental health. - [Spotify](https://open.spotify.com/show/5gSocw3CVfhUpYEfslIxja), [Apple](https://podcasts.apple.com/us/podcast/brain-science/id1475672610), [Android](https://www.subscribeonandroid.com/changelog.com/brainscience/feed), [Overcast](https://overcast.fm/itunes1475672610/brain-science).
+- [Cautionary Tales](https://timharford.com/etc/more-or-less/) - Cautionary Tales is my new podcast from Pushkin Industries, makers of Malcolm Gladwell’s Revisionist History, Michael Lewis’s Against The Rules, and Laurie Santos’s Happiness Lab. - [Spotify](https://open.spotify.com/show/2yPlb6ynbhTJbziSIcykQd), [Apple](https://podcasts.apple.com/us/podcast/cautionary-tales/id1484511465), [Stitcher](https://www.stitcher.com/podcast/pushkin-industries/cautionary-tales).
