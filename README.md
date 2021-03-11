@@ -7,6 +7,7 @@ A curated list of podcasts for all kinds of subjects.
 
 - [Computer Science](#computer-science)
 - [Startups](#startups)
+- [Business](#business-and-management)
 - [Other](#other)
 
 
@@ -23,8 +24,13 @@ A curated list of podcasts for all kinds of subjects.
 - [Founders Talks](https://changelog.com/founderstalk) - In-depth, one-one conversations with founders, CEOs, and makers.
 
 
+### Business and Management
+
+- [HBR IdeaCast](https://hbr.org/2018/01/podcast-ideacast) - A weekly podcast featuring the leading thinkers in business and management - [spotify](https://open.spotify.com/show/4gtSBBxIAE142ApX6LqsvN?si=jVAwql7QQjm6sLndn96iEw), [apple](https://itunes.apple.com/us/podcast/hbr-ideacast/id152022135?mt=2), [google](https://www.google.com/podcasts?feed=aHR0cDovL2ZlZWRzLmhhcnZhcmRidXNpbmVzcy5vcmcvaGFydmFyZGJ1c2luZXNzL2lkZWFjYXN0).
+
+
 ### Other
 
 - [Backstage](https://changelog.com/backstage) - Your backstage pass to the people behind Changelog and the things that interest them.
-- [Braini Science](https://changelog.com/brainscience) - Brain Science, for the curious! We're exploring the human brain to understand behavior change, habit formation & mental health
+- [Brain Science](https://changelog.com/brainscience) - Brain Science, for the curious! We're exploring the human brain to understand behavior change, habit formation & mental health
 - [Cautionary Tales](https://timharford.com/etc/more-or-less/) - Cautionary Tales is my new podcast from Pushkin Industries, makers of Malcolm Gladwell’s Revisionist History, Michael Lewis’s Against The Rules, and Laurie Santos’s Happiness Lab.
