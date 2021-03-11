@@ -5,10 +5,18 @@ A curated list of podcasts for all kinds of subjects.
 
 ## Table of Contents
 
+- [Business & Management](#business-and-management)
 - [Computer Science](#computer-science)
 - [Startups](#startups)
-- [Business & Management](#business-and-management)
 - [Other](#other)
+
+
+### Business and Management
+
+- [HBR IdeaCast](https://hbr.org/2018/01/podcast-ideacast) - A weekly podcast featuring the leading thinkers in business and management - [Spotify](https://open.spotify.com/show/4gtSBBxIAE142ApX6LqsvN?si=jVAwql7QQjm6sLndn96iEw), [Apple](https://itunes.apple.com/us/podcast/hbr-ideacast/id152022135?mt=2), [Google](https://www.google.com/podcasts?feed=aHR0cDovL2ZlZWRzLmhhcnZhcmRidXNpbmVzcy5vcmcvaGFydmFyZGJ1c2luZXNzL2lkZWFjYXN0).
+- [NPR: Money Talks](https://www.npr.org/podcasts/381443621/money-talks) - Money Talks airs Tuesday mornings at 9 Central Time on MPB Think Radio and over the internet at mpbonline.org - [Apple](https://podcasts.apple.com/podcast/id1135597945?mt=2&at=11l79Y&ct=nprdirectory).
+- [The Economist: Money Talks](https://www.economist.com/podcasts) - Our weekly podcast on markets, the economy and business. - [Spotify](https://open.spotify.com/show/2Yvo8QxZf7WlSEsIwKjtX4), [Apple](https://podcasts.apple.com/us/podcast/id420929545), [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9yc3MuYWNhc3QuY29tL3RoZWVjb25vbWlzdG1vbmV5dGFsa3M), [Stitcher](https://www.stitcher.com/podcast/the-economist-money-talks?refid=stpr), [TuneIn](https://tunein.com/podcasts/Business--Economics-Podcasts/Money-talks-from-Economist-Radio-p603831/).
+- [The Economist: Checks and Balance](https://www.economist.com/checks-and-balance-our-weekly-podcast-on-american-politics) - Checks and Balance”—our weekly podcast on American politics - [Spotify](https://open.spotify.com/show/4jjKHhNPHfkIZHssgrQavP), [Apple](https://itunes.apple.com/us/podcast/id1494037881?mt=2&ls=1), [Google](https://www.google.com/podcasts?feed=aHR0cHM6Ly9yc3MuYWNhc3QuY29tL3RoZWludGVsbGlnZW5jZXBvZGNhc3Q), [Stitcher](https://www.stitcher.com/podcast/the-economist/checks-and-balance), [TuneIn](https://tunein.com/podcasts/News--Politics-Podcasts/The-Intelligence-p1186979/).
 
 
 ### Computer Science
@@ -27,14 +35,6 @@ A curated list of podcasts for all kinds of subjects.
 ### Startups
 
 - [Founders Talks](https://changelog.com/founderstalk) - In-depth, one-one conversations with founders, CEOs, and makers. - [Spotify](https://open.spotify.com/show/3fLdieMXkv8HmKbFnRsdB9), [Apple](https://podcasts.apple.com/us/podcast/founders-talk/id396900791), [Android](https://www.subscribeonandroid.com/changelog.com/founderstalk/feed), [Overcast](https://overcast.fm/itunes396900791/founders-talk).
-
-
-### Business and Management
-
-- [HBR IdeaCast](https://hbr.org/2018/01/podcast-ideacast) - A weekly podcast featuring the leading thinkers in business and management - [Spotify](https://open.spotify.com/show/4gtSBBxIAE142ApX6LqsvN?si=jVAwql7QQjm6sLndn96iEw), [Apple](https://itunes.apple.com/us/podcast/hbr-ideacast/id152022135?mt=2), [Google](https://www.google.com/podcasts?feed=aHR0cDovL2ZlZWRzLmhhcnZhcmRidXNpbmVzcy5vcmcvaGFydmFyZGJ1c2luZXNzL2lkZWFjYXN0).
-- [NPR: Money Talks](https://www.npr.org/podcasts/381443621/money-talks) - Money Talks airs Tuesday mornings at 9 Central Time on MPB Think Radio and over the internet at mpbonline.org - [Apple](https://podcasts.apple.com/podcast/id1135597945?mt=2&at=11l79Y&ct=nprdirectory).
-- [The Economist: Money Talks](https://www.economist.com/podcasts) - Our weekly podcast on markets, the economy and business. - [Spotify](https://open.spotify.com/show/2Yvo8QxZf7WlSEsIwKjtX4), [Apple](https://podcasts.apple.com/us/podcast/id420929545), [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9yc3MuYWNhc3QuY29tL3RoZWVjb25vbWlzdG1vbmV5dGFsa3M), [Stitcher](https://www.stitcher.com/podcast/the-economist-money-talks?refid=stpr), [TuneIn](https://tunein.com/podcasts/Business--Economics-Podcasts/Money-talks-from-Economist-Radio-p603831/).
-- [The Economist: Checks and Balance](https://www.economist.com/checks-and-balance-our-weekly-podcast-on-american-politics) - Checks and Balance”—our weekly podcast on American politics - [Spotify](https://open.spotify.com/show/4jjKHhNPHfkIZHssgrQavP), [Apple](https://itunes.apple.com/us/podcast/id1494037881?mt=2&ls=1), [Google](https://www.google.com/podcasts?feed=aHR0cHM6Ly9yc3MuYWNhc3QuY29tL3RoZWludGVsbGlnZW5jZXBvZGNhc3Q), [Stitcher](https://www.stitcher.com/podcast/the-economist/checks-and-balance), [TuneIn](https://tunein.com/podcasts/News--Politics-Podcasts/The-Intelligence-p1186979/).
 
 
 ### Other
