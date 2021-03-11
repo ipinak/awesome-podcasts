@@ -8,6 +8,8 @@ A curated list of podcasts for all kinds of subjects.
 - [Business & Management](#business-and-management)
 - [Computer Science](#computer-science)
 - [Startups](#startups)
+- [Sports](#sports)
+  - [Running](#running)
 - [Other](#other)
 
 
@@ -40,6 +42,12 @@ A curated list of podcasts for all kinds of subjects.
 - [Founders Talks](https://changelog.com/founderstalk) - In-depth, one-one conversations with founders, CEOs, and makers. - [Spotify](https://open.spotify.com/show/3fLdieMXkv8HmKbFnRsdB9), [Apple](https://podcasts.apple.com/us/podcast/founders-talk/id396900791), [Android](https://www.subscribeonandroid.com/changelog.com/founderstalk/feed), [Overcast](https://overcast.fm/itunes396900791/founders-talk).
 - [The Dark Horse Entrepreneur](https://darkhorseschooling.com/podcast/) - From hitting the rock bottom of drugs, divorce, bankruptcy and even the death of an 18 month old daughter to running the planning & marketing of some of corporate america’s finest companies. My name is Tracy Brinkmann an entrepreneur, author and uplifting coach. You see, I know that life isn’t fair and participation awards do not feed your family… I invite you to learn from a fellow Dark Horse all that I have learned and am still learning about starting, restarting, kick starting and stepping up your entrepreneur business and marketing game while not ignoring that amazing tool between your ears..yep your personal development & psychology counts too! - [Spotify](https://open.spotify.com/show/1ZuCGraIzixrGWAiwFKhnP?si=XbPzu18-SeOXzr57foZ9tA), [Apple](https://podcasts.apple.com/us/podcast/dark-horse-entrepreneur/id1524384950), [Stitcher](https://www.stitcher.com/podcast/dark-horse-entrepreneur), [Overcast](https://overcast.fm/itunes1524384950/dark-horse-entrepreneur), [TuneIn](https://tunein.com/podcasts/Business--Economics-Podcasts/The-Dark-Horse-Entrepreneur-p1351974/).
 
+
+### Sports
+
+#### Running
+
+- [The Morning Shakeout Podcast](https://themorningshakeout.com/category/the-morning-shakeout-podcast/) - On a weekly basis, host Mario Fraioli gleans unique insights and inspiration from a wide range of athletes, coaches, and personalities in the sport of running through compelling longform conversations you won’t hear anywhere else. - [Spotify](https://open.spotify.com/show/72LCUoL5iyMoSXTUj9tUJm), [Apple](https://podcasts.apple.com/us/podcast/the-morning-shakeout-podcast/id1320788737), [Google](https://www.google.com/podcasts?feed=aHR0cDovL2ZlZWRzLnNvdW5kY2xvdWQuY29tL3VzZXJzL3NvdW5kY2xvdWQ6dXNlcnM6MzM4MDE2NzI3L3NvdW5kcy5yc3M=), [Overcast](https://overcast.fm/itunes1320788737/the-morning-shakeout-podcast), [Stitcher](https://www.stitcher.com/podcast/the-morning-shakeout-podcast), [SoundCloud](https://soundcloud.com/themorningshakeout).
 
 
 ### Other
