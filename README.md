@@ -89,3 +89,5 @@ Find tools for podcasting here.
 
 - [ZenCast](https://www.zencast.fm/)
 - [SquadCast](https://squadcast.fm/)
+- [Buzzsprout](https://www.buzzsprout.com/)
+- [zencastr](https://zencastr.com/)
