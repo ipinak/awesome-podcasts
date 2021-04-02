@@ -15,6 +15,7 @@ A curated list of podcasts from all around the world in various languages for al
 - [Ελληνικά (Greek)](#ελληνικά)
   - [Κωμωδία](#κωμωδία)
   - [Γενικά](#γενικά)
+- [Tools](#tools)
 
 ### English
 
@@ -81,3 +82,10 @@ A curated list of podcasts from all around the world in various languages for al
 #### Γενικά
 
 - [Badguys](https://www.badguys.fm/) - Two G®eeks talking about everything. - [Spotify](https://open.spotify.com/show/4Xi4swGIuyIPvoElvFGJRE?si=e07zfS56TQaHtXzlvEYKLA), [Apple](https://podcasts.apple.com/gb/podcast/badguys/id154461281300), [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjkxMzcxNzcxMS9zb3VuZHMucnNz?sa=X&ved=2ahUKEwi8uPuj5-HtAhUxnVwKHUoED0IQ9sEGegQIARAC), [SoundCloud](https://soundcloud.com/user-953474549).
+
+### Tools
+
+Find tools for podcasting here.
+
+- [ZenCast](https://www.zencast.fm/)
+- [SquadCast](https://squadcast.fm/)
