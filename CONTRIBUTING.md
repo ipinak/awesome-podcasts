@@ -12,7 +12,7 @@ The podcast should be actively maintained in a periodic fashion.
 
 ### Format
 
-- Alwqys update the `README.md`, don't add new files that point to it.
+- Always update the `README.md`, don't add new files that point to it.
 - Use the the following format:
 ```
 - [Name of The Podcast](link to website) - Description - [playable source #1](source://source), [Spotify](https://open.spotify.com/some-podcast).
