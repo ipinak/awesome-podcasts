@@ -11,6 +11,7 @@ A curated list of podcasts from all around the world in various languages for al
   - [Computers](#computers)
   - [Startups](#startups)
   - [Running](#running)
+  - [Philosophy](#philosophy)
   - [Other](#other)
 - [Ελληνικά (Greek)](#ελληνικά)
   - [Κωμωδία](#κωμωδία)
@@ -58,6 +59,12 @@ A curated list of podcasts from all around the world in various languages for al
 
 - [Founders Talks](https://changelog.com/founderstalk) - In-depth, one-one conversations with founders, CEOs, and makers. - [Spotify](https://open.spotify.com/show/3fLdieMXkv8HmKbFnRsdB9), [Apple](https://podcasts.apple.com/us/podcast/founders-talk/id396900791), [Android](https://www.subscribeonandroid.com/changelog.com/founderstalk/feed), [Overcast](https://overcast.fm/itunes396900791/founders-talk).
 - [The Dark Horse Entrepreneur](https://darkhorseschooling.com/podcast/) - From hitting the rock bottom of drugs, divorce, bankruptcy and even the death of an 18 month old daughter to running the planning & marketing of some of corporate america’s finest companies. My name is Tracy Brinkmann an entrepreneur, author and uplifting coach. You see, I know that life isn’t fair and participation awards do not feed your family… I invite you to learn from a fellow Dark Horse all that I have learned and am still learning about starting, restarting, kick starting and stepping up your entrepreneur business and marketing game while not ignoring that amazing tool between your ears..yep your personal development & psychology counts too! - [Spotify](https://open.spotify.com/show/1ZuCGraIzixrGWAiwFKhnP?si=XbPzu18-SeOXzr57foZ9tA), [Apple](https://podcasts.apple.com/us/podcast/dark-horse-entrepreneur/id1524384950), [Stitcher](https://www.stitcher.com/podcast/dark-horse-entrepreneur), [Overcast](https://overcast.fm/itunes1524384950/dark-horse-entrepreneur), [TuneIn](https://tunein.com/podcasts/Business--Economics-Podcasts/The-Dark-Horse-Entrepreneur-p1351974/).
+
+
+#### Philosophy
+
+- [The Art of Manliness Podcast](https://www.artofmanliness.com/podcast/): Episodes explore how to live a life of both contemplation and action, while having some fun along the way. The show topics cover everything from history and philosophy, to social/professional skills, to parenting, to self-defense and physical training, to pop culture and literature. - [Spotify](https://open.spotify.com/show/2vJHmWhhcMQRXtTruuFWTJ?si=mKlaP2TmR367IZywuFIcYA), [Apple](https://itunes.apple.com/us/podcast/the-art-of-manliness/id332516054?mt=2), [Stitcher](http://www.stitcher.com/podcast/art-of-manliness/artofmanliness), [Overcast](https://overcast.fm/itunes332516054/the-art-of-manliness), [Google Podcast](https://podcasts.google.com/feed/aHR0cHM6Ly93d3cub21ueWNvbnRlbnQuY29tL2QvcGxheWxpc3QvYWFlYTRlNjktYWY1MS00OTVlLWFmYzktYTk3NjAxNDY5MjJiLzYwODFlZWU3LWM0NTktNGUxMi1hMWFiLWFhZGMwMDBmYzRhNy80MTNhNjkwNC00ZDcyLTRiZTgtOTQyMS1hYWRjMDAwZmM0YmEvcG9kY2FzdC5yc3M)
+- [Philosophize This](https://www.philosophizethis.org/): A free podcast dedicated to sharing the ideas that shaped our world. Beginner friendly if listened to in order! For anyone interested in an educational podcast about philosophy where you don't need to be a graduate-level philosopher to understand it. In chronological order, the thinkers and ideas that forger the world we live in are broken down and explained. - [Apple](https://podcasts.apple.com/us/podcast/philosophize-this/id659155419?mt=2), [Stitcher](https://www.stitcher.com/podcast/stephen-west-show/philosophize-this), [Spotify](https://open.spotify.com/show/2Shpxw7dPoxRJCdfFXTWLE), [Google Podcasts](https://play.google.com/music/listen?gclid=COmlsNrWmc0CFcimfgodxAYFGw&gclsrc=ds&u=0#/ps/Iszi3nzoe3p22hsxpoe3i2jmxxy), [Libsyn](https://philosophizethis.libsyn.com/), [YouTube](https://www.youtube.com/channel/UCjnpuIGovFFUBLG5BeHzTag).
 
 
 #### Sports
